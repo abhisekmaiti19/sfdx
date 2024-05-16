@@ -4,6 +4,7 @@ class demo{
 
 
   system.debug('Hello apex');
+  system.debug('Hello apex2');
 
 
 }
